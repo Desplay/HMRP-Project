@@ -1,0 +1,92 @@
+[
+    {
+        "ID": 1,
+        "name": "Cảm xoàn",
+        "prioritized": 20,
+        "specialist": "ENT"
+    },
+    {
+        "ID": 2,
+        "name": "Viêm amidan",
+        "prioritized": 19,
+        "specialist": "ENT"
+    },
+    {
+        "ID": 3,
+        "name": "Covid 19",
+        "prioritized": 5,
+        "specialist": "ENT"
+    },
+    {
+        "ID": 4,
+        "name": "Bong gân",
+        "prioritized": 10,
+        "specialist": "IJR"
+    },
+    {
+        "ID": 5,
+        "name": "Giãn dây chằng",
+        "prioritized": 12,
+        "specialist": "IJR"
+    },
+    {
+        "ID": 6,
+        "name": "Gãy tay",
+        "prioritized": 2,
+        "specialist": "IJR"
+    },
+    {
+        "ID": 7,
+        "name": "Gãy chân",
+        "prioritized": 2,
+        "specialist": "IJR"
+    },
+    {
+        "ID": 8,
+        "name": "Chấn thương sọ não",
+        "prioritized": 1,
+        "specialist": "IJR"
+    },
+    {
+        "ID": 9,
+        "name": "Hở van tim",
+        "prioritized": 15,
+        "specialist": "HEA"
+    },
+    {
+        "ID": 10,
+        "name": "Đái tháo đường",
+        "prioritized": 17,
+        "specialist": "HEA"
+    },
+    {
+        "ID": 11,
+        "name": "Đau tim nhẹ",
+        "prioritized": 7,
+        "specialist": "HEA"
+    },
+    {
+        "ID": 12,
+        "name": "Nhồi máu cơ tim",
+        "prioritized": 1,
+        "specialist": "HEA"
+    },
+    {
+        "ID": 13,
+        "name": "Đau mắt đỏ",
+        "prioritized": 15,
+        "specialist": "EYE"
+    },
+    {
+        "ID": 14,
+        "name": "Đục thủy tinh thể",
+        "prioritized": 6,
+        "specialist": "EYE"
+    },
+    {
+        "ID": 15,
+        "name": "tăng nhãn áp",
+        "prioritized": 3,
+        "specialist": "EYE"
+    }
+]
